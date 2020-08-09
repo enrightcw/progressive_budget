@@ -1,12 +1,10 @@
 const FILES_TO_CACHE = [
-    "./", 
-    "./index.html", 
-    "./style.css",
-    "./index.js", 
-    "./icons/icon-192x192.png",
-    "./icons/icon-512x512.png",
-    "../models/transaction.js",
-    "./db.js"
+    "/", 
+    "/index.html", 
+    "/style.css",
+    "/index.js", 
+    "/models/transaction.js",
+    "/database.js"
 ];
 
 const CACHE_NAME = "static-cache-v2";
